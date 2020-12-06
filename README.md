@@ -14,11 +14,13 @@ The interactive Excel workbook can be viewed here [VBA Challenge](VBA_Challenge.
 
 ### Run Time of VBA Code using Nested Loops
 
-Analyzing 2017 stocks data
-![2017 Run Time](Resources/VBA_Challenge_Original_Code_2017.png)
+Analysing 2018 stocks data (original VBA code run time):
 
-Analysing 2018 stocks data
+![2017Original](Resources/VBA_Challenge_Original_Code_2017.png)
 
+Analysing 2018 stocks data (original VBA code run time):
+
+![2018Original](Resources/VBA_Challenge_Original_Code_2018.png)
 
 ![Theater Outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png)
 ---
