@@ -110,25 +110,22 @@ Analyzing 2018 stocks data (refactored VBA code run time):
 
 ## Summary
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are the advantages and disadvantages of refactoring a code?
 
-   *1. The most number of successful kickstarter campaings in the theater category have been launched in May.*
+   *1. The advantages of refactoring are that the code becomes more readable,less complex and easier to understand. The process in most cases will uncover bad patterns in the code that can be eliminated. Refactoring also leads to code/program that runs faster and is more adaptible. Debugging might become easier with refactored code. *
    
-   *2. The least successful month to launch a kickstarter campaign in the theater category seems to be December.*
+   *2. The disadvantages are that the process of refactoring can become time consuming and expensive. If refactoring is not done right (there is not enough time to test the refactored code), the code can become broken which might lead to more bugs and issues during a release.*
 
-- What can you conclude about the Outcomes based on Goals?
+- What are the advantages and disadvantages of refactoring of the original and refactored VBA script?
 
-  *The highest number of kickstarter projects under plays subcategory (534) had a goal between 1000 and 4999 and 73% (388) of these kickstarter projects have been successful.
-  Total of 16 kickstarter projects under plays subcategory had goal greater than 50000 and 88% (14) of these kickstarter projects failed.*
+  *The advantages of the refactored VBA stocks analysis script:*
+      *a. The script runs faster after refactoring (run time decreased from ~ 0.8 seconds to ~ 0.16 seconds)*
+      *b. The script is easier to understand*
+      *c. Using arrays and variables help the code to be more adaptable and reusable*
+      
+  *The disadvantages of the refactored VBA stocks analysis script:*
+      *a. The process to refactor the VBA code was time consuming*
+      *b. About 70% of the code had to be re-written and it might have been be easier and faster to write the code from scratch*
+   
+      
   
-- What are some limitations of this dataset?
-
-  *This dataset is missing columns description. 
-  This dataset does not provide any other variables that would provide a deeper dive into reasons why particular campaign was or was not successful. More data should be collected to better understand why campaign has failed. It might be a good idea to collect: reason for cancellation, donation type/method, crowdfunding method/site, etc.*
-
-
-- What are some other possible tables and/or graphs that we could create?
-
-  *We could look at average donation by category and subcategory and/or by outcome.
-  We could look at average campaing time of successful campaigns by category/subcategory and/or by goal ranges.
-  We could look at the average number of backers by category/subcategory and/or by month.*
