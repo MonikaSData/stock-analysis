@@ -28,7 +28,9 @@ Analyzing 2017 stocks data (refactored VBA code run time):
 
 ![2017](Resources/VBA_Challenge_2017.png)
 
-Visualize the percentage of successful, failed, and canceled plays based on the funding goal amount (ranges).
+Analyzing 2018 stocks data (refactored VBA code run time):
+
+![2018](Resources/VBA_Challenge_2018.png)
 
 ![Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)  
 ---
