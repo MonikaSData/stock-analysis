@@ -110,7 +110,7 @@ Analyzing 2018 stocks data (refactored VBA code run time):
 
 ## Summary
 
-- What are the advantages and disadvantages of refactoring a code?
+**- What are the advantages and disadvantages of refactoring a code?
 
    *The advantages of refactoring are:*
    
@@ -123,13 +123,13 @@ Analyzing 2018 stocks data (refactored VBA code run time):
       a. The process of refactoring can become time consuming and expensive. 
       b. If refactoring is not done right (there is not enough time to test the refactored code), the code can become broken which might lead to more bugs and issues during a release.
 
-- What are the advantages and disadvantages of refactoring of the original and refactored VBA script?
+**- What are the advantages and disadvantages of refactoring of the original and refactored VBA script?
 
   *The advantages of the refactored VBA stocks analysis script:*
   
-      a. The script runs faster after refactoring (run time decreased from ~ 0.8 seconds to ~ 0.16 seconds)*
-      b. The script is easier to understand*
-      c. Using arrays and variables help the code to be more adaptable and reusable*
+   -  The script runs faster after refactoring (run time decreased from ~ 0.8 seconds to ~ 0.16 seconds)*
+   -  The script is easier to understand*
+   -  Using arrays and variables help the code to be more adaptable and reusable*
       
   *The disadvantages of the refactored VBA stocks analysis script:*
   
