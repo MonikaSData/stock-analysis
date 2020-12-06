@@ -2,15 +2,15 @@
 Performing analysis on stock data to uncover trends
 
 ## Overview of Project
-Analyze stock dataset (2017 and 2018) with VBA code to help answer questions about specific stocks performance. End user is able to chose which year should be analyzed - 2017 or 2018.
-Measure run time of VBA code using nested loops and compare it to run time of refactored VBA code that ensures to loop through all the data one time in order to collect the same information as the original VBA code. The end goal is to determine whether refactoring successfully made the VBA script run faster.
+1. Create interactive and user friendly Excel workbook that analyze stocks dataset (2017 and 2018) using VBA code to help answer questions about specific stocks performance. End user is able to chose which year should be analyzed - 2017 or 2018.
+2. Measure run time of VBA code using nested loops and compare it to run time of refactored VBA code that ensures to loop through all the data one time in order to collect the same information as the original VBA code. The end goal is to determine whether refactoring made the VBA script run faster.
 
-### Results
+## Results
 
 
-## Analysis Source File
+### Analysis Source File
 
-The full analysis can be viewed here [Kickstarter-challenge](Kickstarter_Challenge.zip)
+The interactive Excel workbook can be viewed here [Kickstarter-challenge](Kickstarter_Challenge.zip)
 
 ### Run Time of VBA Code using Nested Loops
 
