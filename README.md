@@ -62,20 +62,18 @@ Example of refactored VBA code eliminating nested loops:
         ticker = tickers(tickerIndex)
         
         '3a) Increase volume for current ticker
-          If Cells(i, 1).Value = ticker Then
+         If Cells(i, 1).Value = ticker Then
                 tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(i, 8).Value
-          End If
+         End If
         
         '3b) Check if the current row is the first row with the selected tickerIndex.
-        'If  Then
-         If Cells(i - 1, 1).Value <> ticker And Cells(i, 1) = ticker Then
+        If Cells(i - 1, 1).Value <> ticker And Cells(i, 1) = ticker Then
                 tickerStartingPrices(tickerIndex) = Cells(i, 6).Value
         End If
            
         
         '3c) check if the current row is the last row with the selected ticker
-         'If the next row’s ticker doesn’t match, increase the tickerIndex.
-        'If  Then
+        'If the next row’s ticker doesn’t match, increase the tickerIndex.
         If Cells(i + 1, 1).Value <> ticker And Cells(i, 1) = ticker Then
                 tickerEndingPrices(tickerIndex) = Cells(i, 6).Value
 
