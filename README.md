@@ -123,7 +123,7 @@ Analyzing 2018 stocks data (refactored VBA code run time):
    - The process of refactoring can become time consuming and expensive. 
    - If refactoring is not done right (there is not enough time to test the refactored code), the code can become broken which might lead to more bugs and issues during a release.
 
-** What are the advantages and disadvantages of refactoring of the original and refactored VBA script?**
+**What are the advantages and disadvantages of refactoring of the original and refactored VBA script?**
 
   *- The advantages of the refactored VBA stocks analysis script:*
   
