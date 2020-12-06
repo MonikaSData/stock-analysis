@@ -110,20 +110,20 @@ Analyzing 2018 stocks data (refactored VBA code run time):
 
 ## Summary
 
-**- What are the advantages and disadvantages of refactoring a code?
+**- What are the advantages and disadvantages of refactoring a code?**
 
    *The advantages of refactoring are:*
    
-       a. The code becomes more readable,less complex and easier to understand. 
-       b. The process in most cases will uncover bad patterns in the code that can be eliminated. 
-       c. Refactoring also leads to code/program that runs faster and is more adaptible. Debugging might become easier with refactored code.
+   - The code becomes more readable,less complex and easier to understand. 
+   - The process in most cases will uncover bad patterns in the code that can be eliminated. 
+   - Refactoring also leads to code/program that runs faster and is more adaptible. Debugging might become easier with refactored code.
    
    *The disadvantages of refactoring are:* 
    
-      a. The process of refactoring can become time consuming and expensive. 
-      b. If refactoring is not done right (there is not enough time to test the refactored code), the code can become broken which might lead to more bugs and issues during a release.
+   - The process of refactoring can become time consuming and expensive. 
+   - If refactoring is not done right (there is not enough time to test the refactored code), the code can become broken which might lead to more bugs and issues during a release.
 
-**- What are the advantages and disadvantages of refactoring of the original and refactored VBA script?
+**- What are the advantages and disadvantages of refactoring of the original and refactored VBA script?**
 
   *The advantages of the refactored VBA stocks analysis script:*
   
@@ -133,8 +133,8 @@ Analyzing 2018 stocks data (refactored VBA code run time):
       
   *The disadvantages of the refactored VBA stocks analysis script:*
   
-      a. The process to refactor the VBA code was time consuming*
-      b. About 70% of the code had to be re-written and it might have been be easier and faster to write the code from scratch*
+   - The process to refactor the VBA code was time consuming*
+   - About 70% of the code had to be re-written and it might have been be easier and faster to write the code from scratch*
    
       
   
