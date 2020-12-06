@@ -14,7 +14,7 @@ The interactive Excel workbook can be viewed here [VBA Challenge](VBA_Challenge.
 
 ### Run Time of VBA Code using Nested Loops
 
-Code Example:
+Code example:
    
     For i = 0 To 11
         ticker = tickers(i)
@@ -48,11 +48,10 @@ Analysing 2018 stocks data (original VBA code run time):
 
 ![2018Original](Resources/VBA_Challenge_Original_Code_2018.png)
 
-![Theater Outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png)
 ---
 ### Run Time of Refactored VBA Code
 
-Example of Refactored VBA code eliminating nested loops:
+Example of refactored VBA code eliminating nested loops:
 
     For i = 0 To 11
         tickerVolumes(i) = 0
@@ -106,11 +105,8 @@ Analyzing 2017 stocks data (refactored VBA code run time):
 Analyzing 2018 stocks data (refactored VBA code run time):
 
 ![2018](Resources/VBA_Challenge_2018.png)
-
-![Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)  
+  
 ---
-### Challenges and Difficulties Encountered
-Possible challenges could arise if we tried to do deeper dive to understand why some campaigns failed while others were successful. Also trying to understand why campaings were canceled would be difficult as there is no reason for cancellation.
 
 ## Summary
 
