@@ -15,6 +15,7 @@ The interactive Excel workbook can be viewed here [VBA Challenge](VBA_Challenge.
 ### Run Time of VBA Code using Nested Loops
 
 Analyzing 2017 stocks data
+![2017 Run Time](Resources/VBA_Challenge_Original_Code_2017.png)
 
 Analysing 2018 stocks data
 
