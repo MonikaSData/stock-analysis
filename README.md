@@ -10,7 +10,7 @@ Performing analysis on stock data to uncover trends
 
 ### Analysis Source File
 
-The interactive Excel workbook can be viewed here [Kickstarter-challenge](Kickstarter_Challenge.zip)
+The interactive Excel workbook can be viewed here [VBA Challenge](VBA_Challenge.xlsm)
 
 ### Run Time of VBA Code using Nested Loops
 
